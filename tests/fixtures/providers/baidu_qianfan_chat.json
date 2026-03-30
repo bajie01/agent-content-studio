@@ -1,0 +1,23 @@
+{
+  "choices": [
+    {
+      "message": {
+        "content": "这是回答内容",
+        "references": [
+          {
+            "title": "AIGC 发展趋势报告",
+            "url": "https://example.com/aigc-trend",
+            "summary": "报告摘要",
+            "published_at": "2026-01-20T10:00:00Z"
+          },
+          {
+            "name": "内容生产实践",
+            "link": "https://example.com/content-practice",
+            "snippet": "实践片段"
+          }
+        ]
+      }
+    }
+  ]
+}
+

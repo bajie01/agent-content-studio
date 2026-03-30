@@ -1,0 +1,22 @@
+{
+  "error_code": 0,
+  "reason": "success",
+  "result": {
+    "data": [
+      {
+        "title": "AIGC 内容创作新趋势",
+        "date": "2026-03-12 09:00:00",
+        "category": "科技",
+        "author_name": "作者A",
+        "url": "https://example.com/juhe-1"
+      },
+      {
+        "title": "体育新闻速览",
+        "date": "2026-03-12 08:00:00",
+        "category": "体育",
+        "author_name": "作者B",
+        "url": "https://example.com/juhe-2"
+      }
+    ]
+  }
+}

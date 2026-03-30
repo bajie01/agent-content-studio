@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "data": {
+    "_type": "SearchResponse",
+    "queryContext": {
+      "originalQuery": "AIGC 内容创作"
+    },
+    "webPages": {
+      "value": [
+        {
+          "name": "AIGC 内容创作方法",
+          "url": "https://example.com/bocha-1",
+          "snippet": "方法介绍",
+          "date": "2026-02-01"
+        },
+        {
+          "name": "AIGC 案例拆解",
+          "url": "https://example.com/bocha-2",
+          "summary": "案例摘要"
+        }
+      ]
+    }
+  }
+}
+

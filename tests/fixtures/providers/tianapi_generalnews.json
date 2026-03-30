@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "msg": "success",
+  "result": {
+    "newslist": [
+      {
+        "title": "AIGC 行业观察",
+        "url": "https://example.com/tian-1",
+        "description": "行业观察摘要",
+        "ctime": "2026-03-10 10:00:00"
+      },
+      {
+        "title": "内容创作工具盘点",
+        "url": "https://example.com/tian-2",
+        "digest": "工具盘点摘要",
+        "ctime": "2026-03-11 11:00:00"
+      }
+    ]
+  }
+}
+
