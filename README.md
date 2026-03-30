@@ -1,5 +1,5 @@
 # Multi-Agent Content Backend
-`一个面向中文内容生产场景的多智能体（Planner/Researcher/Writer）后端系统：基于 FastAPI + SSE 实现全流程透明化流式生成，支持大陆优先搜索源接入、平台化写作模板（知乎/小红书/百家号）、可追溯引用链路（source_index/citation_report）与质量守卫（quality_guard），采用异步并发检索与模块化可扩展架构，适合前后端分离的智能创作工作台快速落地。`
+一个面向中文内容生产场景的多智能体（Planner/Researcher/Writer）后端系统：基于 FastAPI + SSE 实现全流程透明化流式生成，支持大陆优先搜索源接入、平台化写作模板（知乎/小红书/百家号）、可追溯引用链路（source_index/citation_report）与质量守卫（quality_guard），采用异步并发检索与模块化可扩展架构，适合前后端分离的智能创作工作台快速落地。
 后端基于 FastAPI + SSE，实现 `Planner -> Researcher -> Writer` 的多智能体流水线，前后端完全分离。
 
 ## 目录结构
